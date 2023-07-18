@@ -1,0 +1,41 @@
+.card {
+	box-shadow: 1px 1px 10px gray;
+	margin: 20px;
+}
+
+body {
+	background-color: rgb(230, 245, 255);
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+
+}
+
+img {
+	padding: 5px;
+}
+
+table {
+	width: 100%
+}
+
+
+tr:nth-child(even) {
+    background-color: #caebe9;
+	
+	//#afd5d3
+}
+
+tr:hover {
+	background-color: #f5fffe;
+}
+
+th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+  background-color: #486665;
+  color: white;
+}

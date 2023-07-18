@@ -1,0 +1,95 @@
+/*.img-wrapper {
+    position: relative;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+}
+
+.img-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 100;
+    right: 0;
+    text-align: center;
+}
+
+.img-overlay:before {
+    content: ' ';
+    display: block;
+    height: 75%;
+    width: 75%;
+}
+
+.btn-responsive {
+  // matches 'btn-md'
+  padding: 10px 16px;
+  font-size: 15px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
+
+@media (max-width:760px) {
+  // matches 'btn-xs' 
+  .btn-responsive {
+    padding: 1px 5px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+  }
+}*/
+img {
+  width: 1068px;
+  height: 670px;
+}
+
+.container {
+  position: relative;
+  user-select: none;
+}
+.Armstrong {
+	position: absolute;
+	top: 510px;
+	left: 590px;
+  //573,489
+}
+.Benton {
+  position: absolute;
+  top: 120px;
+  left: 580px;
+}
+
+.Kreger {
+  position: absolute;
+  top: 500px;
+  left: 480px;
+}
+
+.Bachelor {
+  position: absolute;
+  top: 590px;
+  left: 975px;
+}
+
+.Pearson {
+  position: absolute;
+  top: 110px;
+  left: 800px;
+}
+
+.Hughes {
+  position: absolute;
+  top: 260px;
+  left: 760px;
+}
+
+/*Armstrong:(573,489,667,570)
+Benton:(540,113,625,156)
+Kreger:(460,480,520,535)
+Bachelor:(945,580,1055,666)
+Pearson:(790,40,850,150)
+Hughes:(705,245,840,300)*/
+
+

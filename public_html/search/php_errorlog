@@ -1,0 +1,28 @@
+[24-Oct-2022 19:11:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php on line 18
+[24-Oct-2022 19:12:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php on line 18
+[24-Oct-2022 19:17:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php on line 18
+[24-Oct-2022 19:17:37 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' or ',' in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php on line 8
+[24-Oct-2022 19:18:06 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' or ',' in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php on line 8
+[24-Oct-2022 19:21:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php on line 20
+[24-Oct-2022 19:21:39 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' or ',' in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php on line 8
+[24-Oct-2022 19:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php on line 18
+[24-Oct-2022 19:26:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php on line 19
+[24-Oct-2022 19:29:40 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ';' or ',' in /home/customer/www/thewaterfail.com/public_html/search/searchfountains.php on line 14
